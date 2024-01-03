@@ -1,6 +1,3 @@
-好的，下面是一个适用于 Android UDP 通信 Demo 的简单 README 模板：
-
-```markdown
 # Android UDP 通信 Demo
 
 这是一个简单的 Android UDP 通信演示项目，用于展示如何在 Android 应用中使用 UDP 协议进行通信。
@@ -61,5 +58,3 @@ socket.close();
 
 [MIT 许可证](LICENSE)
 ```
-
-请根据你的实际情况修改和扩展这个模板。例如，你可能需要添加更多的详细信息、截图、特定的使用案例等。
